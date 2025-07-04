@@ -1,6 +1,6 @@
 # Document Classification using LDA and GloVe Embeddings
 
-This project was completed as part of **NLP751: Natural Language Processing** course. It explores the use of topic modeling and word embeddings for document classification on a labeled text dataset. Our goal was to evaluate how well different feature extraction methods (LDA topics, GloVe vectors) perform with standard classifiers like Logistic Regression and SVM.
+This project was completed as part of **ITM751: Natural Language Processing** course. It explores the use of topic modeling and word embeddings for document classification on a labeled text dataset. Our goal was to evaluate how well different feature extraction methods (LDA topics, GloVe vectors) perform with standard classifiers like Logistic Regression and SVM.
 
 ---
 
